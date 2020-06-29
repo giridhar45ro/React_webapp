@@ -83,7 +83,6 @@ class CommentForm extends React.Component {
         this.handleSubmit = this.handleSubmit.bind(this);
 
         this.state = {
-            isNavOpen: false,
             isModalOpen: false
         };
     }
